@@ -26,11 +26,9 @@ This project focuses on creating an interactive navigation menu that remains fix
 ## 📂 Project Structure
 
 ```
-Responsive-Landing-Page/
+SCT_WD_1/
 │
-├── index.html
-├── style.css
-├── script.js
+├── TASK1.html
 └── README.md
 ```
 
